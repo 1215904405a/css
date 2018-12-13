@@ -1,0 +1,4 @@
+div横着排列：
+display: inline-block;            
+display: flex;
+flex-direction: row;
