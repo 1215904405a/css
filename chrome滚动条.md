@@ -1,10 +1,10 @@
 
-# chrome 滚动条
+## chrome 滚动条
 
-::-webkit-scrollbar {
-	width: 10px;/*竖向滚动条的宽度*/
-	height: 10px;/*横向滚动条的高度*/
-}
+### ::-webkit-scrollbar {
+###	width: 10px;/*竖向滚动条的宽度*/
+###	height: 10px;/*横向滚动条的高度*/
+### }
 
 /*滚动条轨道的样式*/
 ::-webkit-scrollbar-track {
